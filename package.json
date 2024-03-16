@@ -1,12 +1,20 @@
 {
   "name": "zaloapp",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
+    "hahaclmm": "^1.1.0",
+    "car-rental": "^1.0.0",
+    "huyapp": "^0.1.1",
+    "reactjs-audiotag": "1.0.1",
+    "tea-example": "1.2.0",
+    "hura": "0.1.0",
+    "hieuquehuyho1": "1.0.1",
+    "hieuquehuyho2": "1.0.1",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
@@ -17,6 +25,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huydeptrai2k/zaloapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huydeptrai2k/zaloapp/issues"
+  },
+  "homepage": "https://github.com/huydeptrai2k/zaloapp#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
